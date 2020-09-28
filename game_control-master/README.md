@@ -12,4 +12,3 @@ I'm using a Windows10 and Spyder to run my project. This code will be compatable
 
 Follow the steps in requirements file to get the setup ready, then you could run the color.py file and directkeys.py file in order to set them up and make sure they're working correctly. Then you could run controlling_steer.py finally to get the output window.
 
-![](Screenshot.png)
